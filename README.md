@@ -4,9 +4,10 @@ Este projeto contém dois conjuntos de dados: **Tutores** e **Alunos**, ambos co
 
 ## Características dos Bancos de Dados
 
-### 1. **Banco de Dados de Tutores**
+
 O banco de dados de **Tutores** contém informações sobre professores qualificados, suas áreas de ensino e detalhes de contato. Cada tutor pode ensinar uma ou mais disciplinas e tem um preço por hora determinado.
 
+### 1. **Banco de Dados de Tutores**
 #### Características:
 - **id_tutor**: Identificador único para cada tutor.
 - **nome**: Nome completo do tutor.
@@ -24,7 +25,7 @@ id_tutor,nome,nivel_escolaridade_adotado,nivel_graduacao,formacao,disciplinas_en
 2,"Felipe Pereira","Ensino Fundamental","Mestrado","História","História, Geografia",60.00,"58400-000"
 
 
-### 2. **Banco de Dados de Alunos**
+### 2. **Banco de Dados de Tutores**
 O banco de dados de **Alunos** contém informações sobre os estudantes, suas dificuldades acadêmicas e o tipo de apoio educacional que eles buscam. O objetivo é fornecer um perfil detalhado para que os tutores possam oferecer o melhor suporte possível.
 
 #### Características:
