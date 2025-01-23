@@ -24,7 +24,7 @@ id_tutor,nome,nivel_escolaridade_adotado,nivel_graduacao,formacao,disciplinas_en
 1,"Eduarda Gomes","Ensino Médio","Graduação","Matemática","Matemática, Física",75.50,"58000-000"
 2,"Felipe Pereira","Ensino Fundamental","Mestrado","História","História, Geografia",60.00,"58400-000"
 
-### 1. **Banco de Dados de Alunos**
+### 2. **Banco de Dados de Alunos**
 
 O banco de dados de Alunos contém informações sobre os estudantes, suas dificuldades acadêmicas e o tipo de apoio educacional que eles buscam. O objetivo é fornecer um perfil detalhado para que os tutores possam oferecer o melhor suporte possível.
 
